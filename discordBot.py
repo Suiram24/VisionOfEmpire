@@ -1,5 +1,4 @@
 from discord import channel
-from DeepScout import scout
 from typing import Counter
 from sqlalchemy import create_engine
 from discord.ext import commands
