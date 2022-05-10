@@ -7,4 +7,4 @@ PyMySQL==1.0.2
 requests==2.26.0
 SQLAlchemy==1.4.28
 squarify==0.4.3
-
+python-dotenv==0.19.2
