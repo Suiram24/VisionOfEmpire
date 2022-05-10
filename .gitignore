@@ -1,0 +1,5 @@
+test.py
+data/PlayerList.txt
+data/
+temp/
+__pycache__/
